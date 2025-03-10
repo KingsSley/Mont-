@@ -9,7 +9,7 @@ A web-based inventory management system built with [v0.dev](https://v0.dev/). Th
 - (Add more features specific to your app here!)
 
 ## Demo
-(If you host it later, add a link here, e.g., via GitHub Pages: `https://kingssley.github.io/Mont-/`)
+(https://v0-water-inventory-app.vercel.app/) via GitHub Pages: `https://kingssley.github.io/Mont-/`)
 
 ## Installation
 Follow these steps to run the project locally:
